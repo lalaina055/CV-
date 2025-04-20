@@ -1,7 +1,0 @@
-gravure.png
- DEVOIR_WEB/images/gravure.png
-![Gravure traditionnelle](images/gravure.png){: width="300" }
-cd /Users/lalaina/Users/4/DEVOIR_WEB  # Va dans ton dossier projet
-git add images/gravure.png             # Ajoute l'image
-git commit -m "Ajout image gravure"    # Crée le commit
-git push                               # Envoie sur GitHub
