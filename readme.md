@@ -27,7 +27,8 @@ J'ai tout mis sur des lignes séparées avec des emojis pour que ce soit aéré.
 **Ce que j'ai vérifié :**  
 - Que tous les tableaux sont bien alignés 
 - Que les emojis s'affichent correctement  
-- Que les liens fonctionnent quand on clique dessus  
+- Que les liens fonctionnent quand on clique dessus
+- Je n'ai malheureusement pas pu mettre d'image car cela ne marchait pas
 
 **Problèmes rencontrés :** 
 - Les tableaux prennent du temps à bien aligner  
