@@ -1,5 +1,3 @@
-📁 ton-projet-git/
-├── 📄 CV.md
-├── 📁 images/
-│   └── 🖼️ gravure.png
-└── 📄 README.md
+gravure.png
+ DEVOIR_WEB/images/gravure.png
+![Gravure traditionnelle](images/gravure.png){: width="300" }
